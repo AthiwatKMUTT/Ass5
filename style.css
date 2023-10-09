@@ -1,0 +1,69 @@
+*{
+    background-color: bisque;
+    text-align: center;
+    margin: 0;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+.header{
+    background-color: rgb(255, 178, 12);
+    padding-top: 1rem;
+}
+#topic1{
+    font-size: 24px;
+    height: 4rem;
+    width: 30rem;
+    margin-bottom: 2.5rem;
+}
+.content{
+    margin-bottom: 0;
+    background-color: rgb(252, 192, 81);
+    padding-top: 1rem;
+
+}
+#comment1{
+    font-size: 18px;
+    height: 10rem;
+    width: 30rem;
+    margin-bottom: 2.5rem;
+}
+#comment2{
+    font-size: 18px;
+    height: 10rem;
+    width: 30rem;
+    margin-bottom: 2.5rem;
+}
+.footer{
+    margin-top: 2rem;
+}
+textarea{
+    resize: none;
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+    width: 25rem;
+    height: 10rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+
+    font-size: 20px;
+}
+
+button{
+    background-color: azure;
+    padding: 0.5rem;
+    border-radius: 10%;
+
+    font-size: 18px;
+}
+button:hover{
+    background-color: rgb(97, 97, 97);
+    color: white;
+}
